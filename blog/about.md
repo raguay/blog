@@ -3,6 +3,6 @@ disableSuggestEdit: true
 skipListing: true
 ---
 
-## About: Sample Change
+## About: Custom Computer Tools
 
-This is a sample about page for the blog. You may use this blog as a starting point for you blog. Simply clone the repository and install the [Truegit Github App](https://bit.ly/3GyRCBG) to get stated.
+This blog is for my site [Custom Computer Tools](http://customct.com). I'm a missionary in Thailand that does freelance programming for fun and to help pay medical expenses. It also helps with my last child in college.
