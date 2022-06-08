@@ -1,5 +1,5 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: Custom Computer Tools Blog
+description: Creating tools for computers.
 # This folder is where all the files related to the blog would live
 blogFolder: blog
 bannerImage: /banner.webp
@@ -8,26 +8,15 @@ navLinks:
   - title: Docs
     url: https://docs.truegit.io
     isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  github: https://github.com/raguay
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
-    profileImage: "./assets/quantdaddy.jpeg"
+  raguay:
+    name: Richard Guay
+    title: Missionary and Freelancer
+    description: I'm a missionary in Tak, Thailand that does freelance work to help pay for medical bills.
+    url: http://curstomct.com
+    profileImage: "./assets/profile.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      github: https://github.com/raguay
+      email: raguay@customct.com
