@@ -3,7 +3,7 @@ description: Creating tools for computers.
 # This folder is where all the files related to the blog would live
 blogFolder: blog
 bannerImage: ./banner.webp
-logoImage: ./customct.png
+logoImage: ./customctLogo.png
 navLinks:
   - title: Home
     url: http://customct.com
